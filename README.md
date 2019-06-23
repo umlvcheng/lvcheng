@@ -1,7 +1,7 @@
 \begin{rSection}{Education}
 
 {\bf University of Miami, Miami, USA} \hfill { Jan, 2015 --- Dec, 2019} \\ 
-Ph.D candidate in Applied Marine Physics (Supervisor: Prof. Brian K. Haus)\\
+Ph.D candidate in Applied Marine Physics \\
 Thesis: Air-sea Interaction and Mixed Layer Instability near Submesoscle Fronts\\
 
 {\bf Zhejiang University, Hangzhou, China} \hfill {Sep, 2013 ---  Nov, 2014} \\ 
